@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479849601 source:e:\courses\c\projects\basic\srand\main.c
+	<stdio.h>
+	<time.h>
+
